@@ -34,16 +34,12 @@ student-cli/
 
  🚀 Getting Started
 
-1. Clone the Repository
-git clone https://github.com/yourusername/student-cli.git
+1. Clone the Repository:git clone https://github.com/yourusername/student-cli.git
 cd student-cli
-2. Install Dependencies
-   npm install
-3. Start MongoDB Server
-   mongod
-Make sure MongoDB is running locally on mongodb://localhost:27017
-4. Run the Application
-   node app.js
+2. Install Dependencies:npm install
+3. Start MongoDB Server:mongod
+"Make sure MongoDB is running locally on mongodb://localhost:27017"
+5. Run the Application:   node app.js
 
 
 Dependencies
